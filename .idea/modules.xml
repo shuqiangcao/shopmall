@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop-bean/shop-bean.iml" filepath="$PROJECT_DIR$/shop-bean/shop-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-common-util/shop-common-util.iml" filepath="$PROJECT_DIR$/shop-common-util/shop-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-interface/shop-interface.iml" filepath="$PROJECT_DIR$/shop-interface/shop-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-manage-service/shop-manage-service.iml" filepath="$PROJECT_DIR$/shop-manage-service/shop-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-manage-web/shop-manage-web.iml" filepath="$PROJECT_DIR$/shop-manage-web/shop-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-order-web/shop-order-web.iml" filepath="$PROJECT_DIR$/shop-order-web/shop-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-parent/shop-parent.iml" filepath="$PROJECT_DIR$/shop-parent/shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-service-util/shop-service-util.iml" filepath="$PROJECT_DIR$/shop-service-util/shop-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-user-manage/shop-user-manage.iml" filepath="$PROJECT_DIR$/shop-user-manage/shop-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-web-util/shop-web-util.iml" filepath="$PROJECT_DIR$/shop-web-util/shop-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shopmall.iml" filepath="$PROJECT_DIR$/.idea/shopmall.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-bean" />
+        <module name="shop-common-util" />
+        <module name="shop-interface" />
+        <module name="shop-manage-service" />
+        <module name="shop-manage-web" />
+        <module name="shop-order-web" />
+        <module name="shop-service-util" />
+        <module name="shop-user-manage" />
+        <module name="shop-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shop-bean" target="1.8" />
+      <module name="shop-common-util" target="1.8" />
+      <module name="shop-interface" target="1.8" />
+      <module name="shop-manage-service" target="1.8" />
+      <module name="shop-manage-web" target="1.8" />
+      <module name="shop-order-web" target="1.8" />
+      <module name="shop-parent" target="1.8" />
+      <module name="shop-service-util" target="1.8" />
+      <module name="shop-user-manage" target="1.8" />
+      <module name="shop-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shop-manage-service" options="" />
+      <module name="shop-manage-web" options="" />
+      <module name="shop-order-web" options="" />
+      <module name="shop-user-manage" options="" />
+    </option>
+  </component>
+</project>

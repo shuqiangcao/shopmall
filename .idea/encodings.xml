@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/shop-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-user-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-web-util" charset="UTF-8" />
+  </component>
+</project>
